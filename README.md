@@ -22,10 +22,21 @@ A modern military idle clicker where you build your forces, upgrade your power, 
 ## 📄 [View My Resume (PDF)](https://drive.google.com/file/d/1dOnDoUOb56K5q7ZEgTYJ5CEz8qt4oxiE/view?usp=sharing))
 )
 
-I'm open to:
-- 🎮 Game development roles
-- 🧪 Junior software or QA positions
-- 🤝 Collaborations or freelance work
+## 🤝 I’m Open To
+
+I’m currently looking for **entry-level roles, internships, or freelance opportunities** in:
+
+- 🧠 **IT Support / Tech Support**
+- 💻 **Junior Python Developer**
+- 🎮 **Game Development Intern (2D / Pygame / Unity beginner)**
+- 🧪 **QA Testing / Software Tester**
+- 🛠️ **Help Desk / Remote PC Support**
+- 🌐 **Web Development (Frontend/Backend in training)**
+
+I’m passionate about technology, learning quickly, and building real-world projects — and I’m looking to grow by working with others, solving problems, and making useful or fun things.
+
+Feel free to reach out if you have an opportunity that matches!
+
 
 ---
 
